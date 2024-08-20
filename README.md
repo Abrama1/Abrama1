@@ -12,7 +12,9 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/davit-abramishvili" style="color:#008080;">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/davit-abramishvili" style="color:#008080;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24" />
+  </a>
 </p>
 
 <!-- About Me -->
@@ -22,17 +24,17 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrama1&layout=compact&theme=calm&hide_border=true&bg_color=525369&title_color=00ffff&text_color=00b3b3" alt="Abrama1's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrama1&layout=compact&theme=calm&hide_border=true&bg_color=3e3f50&title_color=00ffff&text_color=00b3b3" alt="Abrama1's Most Used Languages" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abrama1&show_icons=true&theme=calm&hide_border=true&bg_color=525369&title_color=00ffff&text_color=00b3b3" alt="Abrama1's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abrama1&show_icons=true&theme=calm&hide_border=true&bg_color=3e3f50&title_color=00ffff&text_color=00b3b3" alt="Abrama1's GitHub Stats" />
 </p>
 
 <!-- Longest Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrama1&theme=calm&hide_border=true&background=525369&stroke=00b3b3&ring=00ffff&fire=f39c12&currStreakNum=00b3b3&sideNums=00b3b3&currStreakLabel=00ffff&sideLabels=00ffff&dates=00b3b3" alt="Abrama1's Longest Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrama1&theme=calm&hide_border=true&background=3e3f50&stroke=00b3b3&ring=00ffff&fire=f39c12&currStreakNum=00b3b3&sideNums=00b3b3&currStreakLabel=00ffff&sideLabels=00ffff&dates=00b3b3" alt="Abrama1's Longest Streak" />
 </p>
 
 <!-- Footer -->
