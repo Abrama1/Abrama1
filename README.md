@@ -41,7 +41,7 @@
 
 <!-- Longest Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrama1&theme=calm&hide_border=true&background=3e3f50&stroke=00b3b3&ring=00ffff&fire=f39c12&currStreakNum=00b3b3&sideNums=00b3b3&currStreakLabel=00ffff&sideLabels=00ffff&dates=00b3b3" alt="Abrama1's Longest Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrama1&theme=calm&hide_border=true&background=3e3f50&stroke=00b3b3&ring=00ffff&fire=f39c12&currStreakNum=00b3b3&sideNums=00b3b3&currStreakLabel=00ffff&sideLabels=00ffff&dates=f39c12" alt="Abrama1's Longest Streak" />
 </p>
 
 <!-- Footer -->
