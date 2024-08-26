@@ -34,12 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrama1&layout=compact&theme=calm&hide_border=true&bg_color=3e3f50&title_color=00ffff&text_color=00b3b3" alt="Abrama1's Most Used Languages" />
 </p>
 
-<!-- GitHub Stats -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abrama1&show_icons=true&theme=calm&hide_border=true&bg_color=3e3f50&title_color=00ffff&text_color=00b3b3" alt="Abrama1's GitHub Stats" />
-</p>
--->
 
 <!-- Longest Streak Stats -->
 <p align="center">
