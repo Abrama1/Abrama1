@@ -26,7 +26,7 @@
 
 <!-- About Me -->
 <p align="center" style="background-color:#f0f0f0; color:#007373; padding: 15px; border-radius: 10px;">
-  I'm currently studying Computer Science at Tbilisi State University and diving into the world of software engineering!
+  Passionate about building clean, efficient, and impactful software through continuous learning.
 </p>
 
 <!-- Most Used Languages -->
