@@ -8,7 +8,7 @@
 <h1 align="center" style="color:#00ffff; background-color:#f0f0f0;">  Hi, I'm Davit Abramishvili🔸</h1>
 
 <!-- Subtitle -->
-<h3 align="center" style="color:#00cccc;">Aspiring Software Engineer!</h3>
+<h3 align="center" style="color:#00cccc;">Junior Software Engineer</h3>
 
 <!-- Social Links -->
 <p align="center">
